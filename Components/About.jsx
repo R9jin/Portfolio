@@ -15,6 +15,7 @@ function About() {
                 BS in Computer Science in Pamantasan ng Cabuyao
             </p>
             <p>🎮 Interested in Game and Web Development 🎮</p>
+            <a href="https://github.com/R9jin">Github Link</a>
         </div>
     );
 }
