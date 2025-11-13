@@ -20,7 +20,7 @@
 
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./MIDTERMLAB/App";
+import App from "./CCS112_FInals_Lab-Activity-1/App";
 
 // Create root and render the main App component
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -29,6 +29,7 @@ root.render(
         <App />
     </React.StrictMode>
 );
+
 
 
 
